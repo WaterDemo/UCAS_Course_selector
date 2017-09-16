@@ -1,0 +1,9 @@
+[info]
+username = your_account
+passwd = your_password
+update = True
+[time]
+time = 2
+[optim]
+# 学院代码 [951, 963]
+depids = []
